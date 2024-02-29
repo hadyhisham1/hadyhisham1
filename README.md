@@ -1,6 +1,6 @@
 - 👋 Hi, I’m hadyhisham
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning python
+- 👀 I’m interested in AI and its applications 
+- 🌱 I’m currently learning Transformers and Computer Vision 
 
 
 <!---
